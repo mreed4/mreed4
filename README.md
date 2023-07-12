@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+🔭 I’m currently working on ...
+- A proof of concept solution, using React, to a problem I face in my current role - PRIVATE REPOSITORY
+
+🌱 I’m currently learning ...
+- General React knowledge gaps using React.gg
+
+⚡ Fun fact: ...
+- My first foray into "web development" (f/k/a "web design") was for a small computer game website
+
+
 <!--
 **mreed4/mreed4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
