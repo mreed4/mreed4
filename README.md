@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working on ...
-- A proof of concept solution, using React, to a problem I face in my current role - PRIVATE REPOSITORY
+- A proof of concept solution, using React, to a problem I face in my current role outside of the development workd
 
 🌱 I’m currently learning ...
 - General React knowledge gaps using React.gg
