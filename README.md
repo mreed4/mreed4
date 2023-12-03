@@ -6,6 +6,7 @@
 
 🌱 I’m currently learning ...
 - Additional React knowledge using React.gg
+- Java, on the University of Helsinki MOOC website
 
 ⚡ Recent accomplishments ...
 - I very recently taught myself Netlify functions to hide API keys
