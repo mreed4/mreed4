@@ -9,7 +9,7 @@
 - Java, on the University of Helsinki MOOC website
 
 ⚡ Recent accomplishments ...
-- I very recently taught myself Netlify functions to hide API keys
+- I taught myself Netlify functions to hide API keys
 
 <!--
 **mreed4/mreed4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
