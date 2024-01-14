@@ -2,11 +2,13 @@
 
 🔭 I’m currently working on ...
 - A proof of concept solution, using React, to a problem I face in my current role outside of the development world
-- A fun little Youtube comment app
+- Advent of JavaScript 2021 (2022)
+- Writing up a guide on how to hide API keys
 
 🌱 I’m currently learning ...
 - Additional React knowledge using React.gg
 - Java, on the University of Helsinki MOOC website
+- Enough about Observer and Geolocation to get them to work in Advent challenges
 
 ⚡ Recent accomplishments ...
 - I taught myself Netlify functions to hide API keys
