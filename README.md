@@ -10,7 +10,7 @@
 - Java, on the University of Helsinki MOOC website
 - Enough about Observer and Geolocation to get them to work in Advent challenges
 
-⚡ Recent accomplishments ...
+⚡ Accomplishments ...
 - I taught myself Netlify functions to hide API keys
 
 <!--
