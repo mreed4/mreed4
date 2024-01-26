@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on ...
 - A proof of concept solution, using React, to a problem I face in my current role outside of the development world
-- Advent of JavaScript 2021 (2022)
+- ~~Advent of JavaScript 2021 (2022)~~
 - Writing up a guide on how to hide API keys
 
 🌱 I’m currently learning ...
